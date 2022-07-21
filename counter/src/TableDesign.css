@@ -1,0 +1,21 @@
+/* .table{
+    border: 1px solid green;
+    height: 440px;
+    width: 800px;
+   border-collapse: collapse; 
+}
+
+.td2{
+    border: 1px solid blue;
+    border-collapse: separate;
+} */
+td{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid green;
+    /* border-collapse: collapse; */
+  }
+  .child-table{
+    border: 1px solid blue;
+  }
